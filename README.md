@@ -5,13 +5,13 @@
 Via Composer
 
 ```bash
-composer require cesargb/package_name
+composer require descom/package_name
 ```
 
 ## Usage
 
 ```php
-$skeleton = new Cesargb\Skeleton\SkeletonClass;
+$skeleton = new Descom\Skeleton\SkeletonClass;
 ```
 
 ## Testing

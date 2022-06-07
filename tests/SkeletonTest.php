@@ -1,6 +1,6 @@
 <?php
 
-namespace Cesargb\Skeleton\Test;
+namespace Descom\Skeleton\Test;
 
 use PHPUnit\Framework\TestCase;
 

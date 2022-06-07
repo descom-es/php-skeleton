@@ -1,16 +1,16 @@
 {
-    "name": "cesargb/skeleton",
+    "name": "descom/skeleton",
     "description": "package_description",
     "type": "library",
     "require": {
         "php": "^8.0"
     },
-    "homepage": "https://github.com/cesargb/skeleton",
+    "homepage": "https://github.com/descom/skeleton",
     "license": "MIT",
     "authors": [
         {
             "name": "Cesar Garcia",
-            "email": "cesargb@gmail.com",
+            "email": "cesar@descom.es",
             "role": "Developer"
         }
     ],
@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Cesargb\\Skeleton\\": "src"
+            "Descom\\Skeleton\\": "src"
         }
     },
     "scripts": {

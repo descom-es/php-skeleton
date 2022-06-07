@@ -1,6 +1,6 @@
 <?php
 
-namespace Cesargb\Skeleton;
+namespace Descom\Skeleton;
 
 class Skeleton
 {
