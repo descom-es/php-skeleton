@@ -22,9 +22,10 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require-dev": {
+        "descom/dev": "^1.0",
         "friendsofphp/php-cs-fixer": "^3.4",
-        "phpunit/phpunit": "^9.5",
-        "phpstan/phpstan": "^1.9"
+        "phpstan/phpstan": "^1.11",
+        "phpunit/phpunit": "^9.5"
     },
     "autoload": {
         "psr-4": {
