@@ -1,6 +1,6 @@
 <?php
 
-namespace Descom\Skeleton\Test;
+namespace Test;
 
 use PHPUnit\Framework\TestCase;
 

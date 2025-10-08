@@ -3,7 +3,7 @@
     "description": "package_description",
     "type": "library",
     "require": {
-        "php": "^8.0"
+        "php": "^8.1"
     },
     "homepage": "https://github.com/descom/skeleton",
     "license": "MIT",
@@ -22,9 +22,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require-dev": {
-        "descom/dev": "^1.0",
         "phpstan/phpstan": "^1.11",
-        "phpunit/phpunit": "^9.5"
+        "phpunit/phpunit": "^12.0"
     },
     "autoload": {
         "psr-4": {
